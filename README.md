@@ -1,16 +1,20 @@
-## Hi there 👋
+## 🛠️ My Tech Stack
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-Shield-red?style=for-the-badge)
 
-<!--
-**asalanalimina/asalanalimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏗️ Featured Project: MediSecure Operations Lab
+*A high-security, cost-governed cloud infrastructure project modeled after aviation & healthcare logistics.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Network Security:** Implemented IP Whitelisting and Firewalls.
+- **Cost Governance:** Achieved <$0.01/day burn rate via automated lifecycle management.
+- **Identity:** Scalable RBAC & Entra ID (Azure AD) implementation.
+- **Compliance:** Built automated data lifecycle policies for secure archiving.
+
+---
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/halima-sa-farah) | [Email](mailto:hfarah1206@gmail.com)
