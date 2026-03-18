@@ -37,6 +37,6 @@
 
 <div align="center">
   <b>Let's Connect!</b><br>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> | 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/halima-sa-farah">LinkedIn</a> | 
+  <a href="mailto:hfarah1206@gmail.com">Email</a>
 </div>
