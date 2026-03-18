@@ -1,42 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Halima%20Farah&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=220&section=header&text=Halima%20Farah&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
-  <h3>☁️ Cloud Engineer | 🛡️ Cybersecurity Analyst | 🏥 Healthcare IT Specialist</h3>
+  <br>
+  <h2>☁️ Cloud Infrastructure | 🛡️ Cybersecurity Operations | 🏥 Health Tech</h2>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=strapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Network_Security-Shield-2ea043?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ISO_27001-Certified-gold?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
 ### 👤 About Me
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 10px; border: 1px solid #d0d7de;">
-  Hello! I am <b>Halima Farah</b>, a technical professional transitioning from 15 years in logistics and healthcare into the world of Cloud Operations and Cybersecurity. I specialize in building secure, cost-governed infrastructure on Microsoft Azure.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="100%" style="background-color: #f6f8fa; padding: 20px; border-radius: 15px; border: 1px solid #d0d7de;">
+        I am a technical professional transitioning from <b>15 years of Logistics and Healthcare</b> into Cloud Computing and Cybersecurity. My expertise lies in designing secure, highly-available environments on <b>Microsoft Azure</b> with a focus on data privacy and cost governance.
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
+### 🏥 Featured Project: MediSecure Lab
+> *A production-grade cloud infrastructure simulation for secure healthcare logistics.*
+
+* **Zero Trust Networking:** Configured Network Security Groups (NSGs) for strict traffic control.
+* **Identity & Access:** Implemented Microsoft Entra ID (Azure AD) for secure role-based access.
+* **Cost Management:** Currently maintaining a high-performance lab with a burn rate of **<$0.05/day**.
+
+---
+
+### 📊 GitHub Activity
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=halima-farah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halima-farah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 </div>
 
 ---
 
-### 🛠️ Featured Project: MediSecure Lab
-> **A high-security cloud environment modeled for healthcare logistics.**
-
-* **Identity Management:** Scalable RBAC & Entra ID implementation.
-* **Security:** Network Security Groups (NSGs) with strict IP Whitelisting.
-* **Governance:** Cost-optimized architecture maintaining < $0.05/day burn rate.
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=halima-farah&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-</p>
-
----
-
 <div align="center">
-  <b>Let's Connect!</b><br>
-  <a href="https://www.linkedin.com/in/halima-sa-farah">LinkedIn</a> | 
-  <a href="mailto:hfarah1206@gmail.com">Email</a>
+  <h3>📬 Let's Connect</h3>
+  
+  <a href="https://www.linkedin.com/in/halima-sa-farah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:hfarah1206@gmailcom">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
