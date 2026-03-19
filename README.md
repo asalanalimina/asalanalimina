@@ -16,18 +16,22 @@
 
 ## **About Me**
 
-**Aviation Logistics Professional ✈️ ➡️ Cloud Security Engineer ☁️**
+**Aviation Logistics Professional ✈️ | Health Care 🩺 ➡️ Cloud Security Engineer ☁️**
 
-With 15 years of experience at WestJet as a Material Coordinator in Logistics and Supply Chain, I developed a "zero-error" mindset in one of the world's most highly regulated and mission-critical industries.
+With **15 years of experience at WestJet** as a Material Coordinator in Logistics and Supply Chain, I developed a "zero-error" mindset in one of the world's most highly regulated and mission-critical industries. 
 
-In 2021, I pivoted my expertise into Information Technology, bringing a unique perspective on operational integrity, asset management, and complex problem-solving. I am now specializing in Azure Cloud Security, where I apply the same precision required in aviation to securing cloud infrastructure and sensitive data.
+My journey of continuous growth led me to:
+* **2021:** Transitioned into the **Health Care** sector, gaining first-hand experience in highly regulated environments and sensitive data handling.
+* **2023:** Completed intensive **Cybersecurity** training to merge my logistics and healthcare background with technical cloud defense.
 
-Current Focus
-🔐 Infrastructure Hardening: Implementing Disk Encryption (CMK) and Network Security Groups (NSGs).
+I am now specializing in **Azure Cloud Security**, applying years of high-stakes coordination experience to securing mission-critical infrastructure.
 
-🛡️ Security Governance: Designing Least-Privilege access models (RBAC).
+---
 
-🏥 Project: Building the MediSecure Lab, a secure Azure environment for healthcare dispatchers.
+### **Current Focus**
+* 🔐 **Infrastructure Hardening:** Implementing Disk Encryption (CMK) and Network Security Groups (NSGs).
+* 🛡️ **Security Governance:** Designing Least-Privilege access models (RBAC).
+* 🏥 **Active Project:** The **MediSecure Lab**—a secure Azure environment for healthcare dispatchers.
       </td>
     </tr>
   </table>
